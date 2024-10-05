@@ -1,16 +1,2 @@
-# final_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+這是一個開發外匯兌換和航班資訊的整合app，透過串接特定API並即時更新的方式供使用者快速篩選國家、日期、人數等等資訊。
+並可以選擇國家貨幣後即時取得當前匯率並進行貨幣的換算。
